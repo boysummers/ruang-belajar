@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Ruang Belajar",
+    "slug": "ruang-belajar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F4F7F5"
+    },
+    "android": {
+      "package": "com.contoh.ruangbelajar"
+    },
+    "ios": {
+      "bundleIdentifier": "com.contoh.ruangbelajar"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
