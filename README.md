@@ -6,7 +6,7 @@ Aplikasi pengelola tugas belajar dan kebiasaan positif.
 Persyaratan: Node.js 22.13 atau lebih baru (jalur Node 22), atau Node.js 24.3+.
 
 1. Ekstrak ZIP ini.
-2. Buka terminal pada folder `RuangBelajar_RN`.
+2. Buka terminal pada folder `RuangBelajar`.
 3. Jalankan:
    ```bash
    npm install
